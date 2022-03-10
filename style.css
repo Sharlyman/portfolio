@@ -1,4 +1,6 @@
 
+/* style.css code below here */
+
 header {
     font-family: Arial;
     color: black;
@@ -6,21 +8,27 @@ header {
     height: 50px;
 }
 
+/* dark background for the header */
 .dark-background {
     background-color: salmon;
     color: black;
 }
+
+/* light background for the welcoming section */
 
 .light-background {
     background-color: lightsalmon;
     color: black;
 }
  
+ /* Paragraphs to be all the same */
+
 p {
     color: black;
     font-family: arial;
     font-size: 15px;
 }
+
 
 footer {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -28,6 +36,7 @@ footer {
 
 }
 
+/* h2 headings to stand out and be be differencitated */
 h2 {
     font-size: 26px;
     font-family: Arial;

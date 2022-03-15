@@ -63,7 +63,7 @@ div {
 
 /* Any button which the users pointer hovers over */
 
-link: hover { 
-    color: purple; 
+a:hover { 
+    color: purple;
 }
 

@@ -63,7 +63,12 @@ div {
 
 /* Any button which the users pointer hovers over */
 
+a {
+  background-color: beige;
+  transition: background-color .5s;
+}
+
 a:hover { 
-    color: purple;
+    background-color: purple;
 }
 
